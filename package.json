@@ -4,7 +4,7 @@
   "description": "nodejs unit test development",
   "main": "src/app.js",
   "scripts": {
-    "start": "nodemon src/app",
+    "start": "nodemon src/index",
     "test": "jest --watchAll",
     "lint": "eslint ."
   },
