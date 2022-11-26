@@ -5,7 +5,8 @@
   "main": "app.js",
   "scripts": {
     "start": "node app",
-    "test": "jest --watchAll"
+    "test": "jest --watchAll",
+    "lint" : "eslint ."
   },
   "author": "adanSource",
   "license": "ISC",
